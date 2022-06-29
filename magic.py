@@ -38,3 +38,9 @@ if name == '':
     print('Question: ' + question)
 else:
     print(name + ' asks: ' + question)
+
+#empty question conditional
+if question == '':
+    print('Please ask question')
+else:
+    print(name + ' asks: ' + question)
