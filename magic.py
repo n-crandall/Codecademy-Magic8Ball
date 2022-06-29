@@ -26,3 +26,6 @@ elif random_number == 9:
     answer = 'Very doubtful.'
 else:
     answer = 'Error'
+
+#print question
+print(name + ' asks: ' + question)    
