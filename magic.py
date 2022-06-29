@@ -28,4 +28,7 @@ else:
     answer = 'Error'
 
 #print question
-print(name + ' asks: ' + question)    
+print(name + ' asks: ' + question)
+
+#print answer
+print("Magic 8-Ball's answer: " + answer)
