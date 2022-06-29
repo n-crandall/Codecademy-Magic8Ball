@@ -4,3 +4,7 @@ random_number = random.randint(1, 9)
 name = "Bob"
 question = "Will it rain?"
 answer = ''
+
+#conditional statement
+if random_number == 1:
+    answer = 'Yes - definitely.'
