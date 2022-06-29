@@ -32,3 +32,9 @@ print(name + ' asks: ' + question)
 
 #print answer
 print("Magic 8-Ball's answer: " + answer)
+
+#empty name conditional
+if name == '':
+    print('Question: ' + question)
+else:
+    print(name + ' asks: ' + question)
